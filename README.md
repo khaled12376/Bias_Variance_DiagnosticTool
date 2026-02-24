@@ -247,7 +247,7 @@ bias-variance-diagnoser/
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/bias-variance-diagnoser.git
+git clone https://github.com/Alysoffar/bias-variance-diagnoser.git
 cd bias-variance-diagnoser
 ```
 
